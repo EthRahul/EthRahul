@@ -70,9 +70,7 @@
 
 | Repository | Description |
 |---|---|
-| [ctf-writeups](https://github.com/EthRahul/ctf-writeups) | THM and CTF room writeups |
-| [cybersecurity-notes](https://github.com/EthRahul/cybersecurity-notes) | Personal notes and cheatsheets |
-| [security-scripts](https://github.com/EthRahul/security-scripts) | Custom security automation scripts |
+| [thm-journey](https://github.com/EthRahul/thm-journey) | My TryHackMe learning journey — writeups, notes and scripts |
 
 ---
 
