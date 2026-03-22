@@ -2,8 +2,8 @@
 <h3 align="center">Aspiring Penetration Tester | Offensive Security | Bug Bounty Hunter</h3>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/cbuzzrahul">
-    <img src="https://img.shields.io/badge/TryHackMe-cbuzzrahul-red?style=for-the-badge&logo=tryhackme" />
+  <a href="https://tryhackme.com/p/Ethrahul">
+    <img src="https://img.shields.io/badge/TryHackMe-Ethrahul-red?style=for-the-badge&logo=tryhackme" />
   </a>
   <a href="https://linkedin.com/in/rahul-sunouri">
     <img src="https://img.shields.io/badge/LinkedIn-Rahul_Sunouri-blue?style=for-the-badge&logo=linkedin" />
