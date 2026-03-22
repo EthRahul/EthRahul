@@ -51,6 +51,7 @@
 | Certification | Issuer | Date |
 |---|---|---|
 | Cyber Security 101 | TryHackMe | March 2026 |
+| Ethical Hacking Essential |  EC COUNCIL | 2025 | 
 | Google Cybersecurity Certificate | Google | 2025 |
 
 ---
