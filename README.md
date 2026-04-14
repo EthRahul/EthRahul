@@ -2,14 +2,12 @@
 
 <h3 align="center">Jr Penetration Tester | Offensive Security | AI Automation</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rahul-sunouri">
-    <img src="https://img.shields.io/badge/LinkedIn-rahul--sunouri-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://tryhackme.com/p/Ethrahul">
-    <img src="https://img.shields.io/badge/TryHackMe-Ethrahul-111927?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rahul--sunouri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-sunouri)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Ethrahul-111927?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ethrahul)
+
+</div>
 
 I am an offensive security practitioner driven by a curiosity to understand how systems break—and how to secure them. Operating primarily out of Kali Linux, I bridge the gap between theoretical vulnerabilities and practical execution through hands-on labs, real-world simulations, and rigorous documentation.
 
@@ -69,6 +67,6 @@ I am an offensive security practitioner driven by a curiosity to understand how 
 
 <div align="center">
   
-[![EthRahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EthRahul&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/EthRahul)
+[![EthRahul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EthRahul&theme=radical&hide_border=true&background=0D1117)](https://github.com/EthRahul)
 
 </div>
