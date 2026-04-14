@@ -1,104 +1,74 @@
-<h1 align="center">Hi 👋 I'm Rahul Sunouri</h1>
-<h3 align="center">Aspiring Penetration Tester | Offensive Security | Bug Bounty Hunter</h3>
+# ⚡ Hi there, I'm Rahul Sunouri 👋
 
-<p align="center">
-  <a href="https://tryhackme.com/p/Ethrahul">
-    <img src="https://img.shields.io/badge/TryHackMe-Ethrahul-red?style=for-the-badge&logo=tryhackme" />
-  </a>
-  <a href="https://linkedin.com/in/rahul-sunouri">
-    <img src="https://img.shields.io/badge/LinkedIn-Rahul_Sunouri-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+**Jr Penetration Tester | Offensive Security | AI Automation**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-sunouri)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ethrahul)
 
-## 👨‍💻 About Me
+I am an offensive security practitioner driven by a curiosity to understand how systems break—and how to secure them. Operating primarily out of Kali Linux, I bridge the gap between theoretical vulnerabilities and practical execution through hands-on labs, real-world simulations, and rigorous documentation.
 
-- 🎓 B.Tech CSE student at **Bipin Tripathi Kumaon Institute of Technology**, Uttarakhand
-- 🔐 Passionate about **offensive security, penetration testing and bug bounty hunting**
-- 🐧 Daily driving **Kali Linux** for hands-on security practice
-- 📚 Currently pursuing **TryHackMe Jr Penetration Tester Path**
-- 🎯 Goal: **Offensive security internship and bug bounty hunting in 2026**
+* 🌍 **Location:** Uttarakhand, India
+* 🎯 **Current Goal:** Securing an Offensive Security / Penetration Testing Internship.
+* 🤖 **Exploring:** The intersection of cybersecurity and Artificial Intelligence, specifically automating offensive workflows.
 
 ---
 
-## 🛠️ Skills & Tools
-
-**Offensive Security:**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat)
-![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=flat)
-![Gobuster](https://img.shields.io/badge/Gobuster-4B0082?style=flat)
-![Hydra](https://img.shields.io/badge/Hydra-008000?style=flat)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-
-**Technical Knowledge:**
-
-![Web App Security](https://img.shields.io/badge/Web_App_Security-orange?style=flat)
-![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat)
-![Network Security](https://img.shields.io/badge/Network_Security-blue?style=flat)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+### ⚔️ Recent TTPs & Tradecraft Mastered
+I believe in demonstrating capability over just listing tools. Here is what I have been actively exploiting:
+* **Windows Privilege Escalation:** Bypassing permissions to dump `SAM` and `SYSTEM` registry hives, offline hash extraction, and executing Pass-the-Hash (PtH) attacks using Impacket.
+* **Linux Privilege Escalation:** Chaining SUID misconfigurations (e.g., `base64` binaries) to bypass `/etc/shadow` file permissions, and leveraging GTFOBins via `sudo` misconfigurations for root access.
+* **Web Exploitation:** Intercepting HTTP traffic to bypass client-side controls, and exploiting core web vulnerabilities like SQLi, SSRF, and Command Injection.
+* **Post-Exploitation:** Stabilizing reverse/bind shells and executing credential harvesting techniques.
 
 ---
 
-## 📜 Certifications
-
-| Certification | Issuer | Date |
-|---|---|---|
-| Cyber Security 101 | TryHackMe | March 2026 |
-| Ethical Hacking Essential |  EC COUNCIL | 2025 | 
-| Google Cybersecurity Certificate | Google | 2025 |
+### 💻 Custom Tooling & Development
+* 🧠 **AI-Driven Automation GUI:** Developed a custom local tool utilizing Python and Tkinter, integrated with Gemini's Computer Use capabilities, to automate routine OS tasks and streamline development workflows. 
 
 ---
 
-## 🚀 Current Focus
-```
-✅ Completed → TryHackMe Cyber Security 101 (56 hands-on labs)
-🔄 In Progress → TryHackMe Jr Penetration Tester Path
-🎯 Next → Bug Bounty on HackerOne & Bugcrowd
-🎯 Next → eJPT Certification
-```
+### 🎯 Target Milestones & Roadmap
+* 🛡️ **TryHackMe PT1** (Junior Penetration Tester) Certification
+* 🌐 **Web Application Penetration Testing** Deep Dive
+* 🏆 **HTB CPTS** (Certified Penetration Testing Specialist)
 
 ---
 
-## 📂 Repositories
+### 🛠️ Technical Arsenal
+
+**Core Technologies:** ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) 
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Offensive Security Tooling:** ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge) 
+![Metasploit](https://img.shields.io/badge/Metasploit-025590?style=for-the-badge) 
+![Nmap](https://img.shields.io/badge/Nmap-2B4A69?style=for-the-badge) 
+![SQLMap](https://img.shields.io/badge/SQLMap-E34C26?style=for-the-badge) 
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge) 
+![Gobuster](https://img.shields.io/badge/Gobuster-F2CA28?style=for-the-badge&logoColor=black)
+
+---
+
+### 📜 Certifications & Path Completions
+
+| Certification / Path | Issuer | Status | Date |
+| :--- | :--- | :--- | :--- |
+| **Jr Penetration Tester Path** | TryHackMe | ✅ Completed | April 2026 |
+| **Cyber Security 101 Path** | TryHackMe | ✅ Completed | March 2026 |
+| **Ethical Hacking Essential (EHE)** | EC-Council | ✅ Completed | 2025 |
+| **Google Cybersecurity Professional** | Google | ✅ Completed | 2025 |
+
+---
+
+### 📂 Featured Repositories
 
 | Repository | Description |
-|---|---|
-| [thm-journey](https://github.com/EthRahul/thm-journey) | My TryHackMe learning journey — writeups, notes and scripts |
+| :--- | :--- |
+| 🔐 **[thm-journey](https://github.com/EthRahul/thm-journey)** | My offensive security learning journey. Contains my structured methodology notes, custom script builds, and professional write-ups (like the Linux Privilege Escalation Capstone). |
 
----
-
-## 📊 GitHub Stats
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EthRahul&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EthRahul&show_icons=true&theme=radical&hide_border=true" alt="EthRahul's GitHub Stats" />
 </p>
-
----
-
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: [linkedin.com/in/rahul-sunouri](https://linkedin.com/in/rahul-sunouri)
-- 🔐 TryHackMe: [tryhackme.com/p/Ethrahul](https://tryhackme.com/p/Ethrahul)
-- 📧 Email: rahulsunouri@gmail.com
-
-<!--
-**EthRahul/EthRahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
