@@ -1,11 +1,11 @@
 <div align="center">
 
-```
+
 ╔═══════════════════════════════════════════════════════════╗
 ║          INITIALIZING OFFENSIVE SECURITY PROFILE          ║
 ║                   TARGET: RAHUL SUNOURI                   ║
 ╚═══════════════════════════════════════════════════════════╝
-```
+
 
 # `whoami` — Rahul Sunouri
 
