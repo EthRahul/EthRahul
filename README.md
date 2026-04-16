@@ -1,11 +1,7 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║          INITIALIZING OFFENSIVE SECURITY PROFILE          ║
-║                   TARGET: RAHUL SUNOURI                   ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=999999&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97;%E2%95%91+++++++++INITIALIZING+OFFENSIVE+SECURITY+PROFILE+++++++++%E2%95%91;%E2%95%91+++++++++++++++++TARGET%3A+RAHUL+SUNOURI++++++++++++++++++%E2%95%91;%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%9D" alt="banner"/>
+
 # `whoami` — Rahul Sunouri
 
 ### Offensive Security | Bug Bounty Hunter | AI × Security
@@ -37,7 +33,25 @@ Focus    : Web App Pentesting → PT1 Cert → HTB CPTS
 
 ---
 
-## 〔 02 〕ACTIVE OBJECTIVES
+## 〔 02 〕FEATURED REPOSITORY
+
+<div align="center">
+
+### 🔐 My Primary Security Repository
+
+<a href="https://github.com/EthRahul/thm-journey">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EthRahul&repo=thm-journey&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41" />
+</a>
+
+</div>
+
+<h3>
+&nbsp;&nbsp;🔐 <a href="https://github.com/EthRahul/thm-journey">thm-journey</a> — Structured methodology notes, room write-ups, and custom scripts built across 70+ TryHackMe labs covering the full offensive security spectrum.
+</h3>
+
+---
+
+## 〔 03 〕ACTIVE OBJECTIVES
 
 ```
 [✅] Complete TryHackMe Cyber Security 101         — DONE (March 2026)
@@ -51,7 +65,7 @@ Focus    : Web App Pentesting → PT1 Cert → HTB CPTS
 
 ---
 
-## 〔 03 〕TECHNICAL ARSENAL
+## 〔 04 〕TECHNICAL ARSENAL
 
 <div align="center">
 
@@ -78,7 +92,7 @@ Focus    : Web App Pentesting → PT1 Cert → HTB CPTS
 
 ---
 
-## 〔 04 〕TRADECRAFT HIGHLIGHTS
+## 〔 05 〕TRADECRAFT HIGHLIGHTS
 
 | Vector | Execution |
 | :--- | :--- |
@@ -90,7 +104,7 @@ Focus    : Web App Pentesting → PT1 Cert → HTB CPTS
 
 ---
 
-## 〔 05 〕CERTIFICATIONS & COMPLETED PATHS
+## 〔 06 〕CERTIFICATIONS & COMPLETED PATHS
 
 | Badge | Certification / Path | Issuer | Date |
 | :---: | :--- | :--- | :--- |
@@ -98,18 +112,6 @@ Focus    : Web App Pentesting → PT1 Cert → HTB CPTS
 | 🏆 | **Cyber Security 101 Path** (56 labs \| 45+ hrs) | TryHackMe | March 2026 |
 | 📜 | **Ethical Hacking Essentials (EHE)** | EC-Council | 2025 |
 | 📜 | **Google Cybersecurity Professional** | Google | 2025 |
-
----
-
-## 〔 06 〕FEATURED REPOSITORIES
-
-<div align="center">
-
-[![thm-journey](https://github-readme-stats.vercel.app/api/pin/?username=EthRahul&repo=thm-journey&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41)](https://github.com/EthRahul/thm-journey)
-
-</div>
-
-> 🔐 **[thm-journey](https://github.com/EthRahul/thm-journey)** — Structured methodology notes, room write-ups, and custom scripts built across 70+ TryHackMe labs covering the full offensive security spectrum.
 
 ---
 
@@ -131,14 +133,14 @@ Focus    : Web App Pentesting → PT1 Cert → HTB CPTS
 
 <div align="center">
 
-```
+<pre>
 ┌─────────────────────────────────────────────────────────┐
 │   "The quieter you become, the more you are able        │
 │    to hear."  — Kali Linux                              │
 │                                                         │
 │   Currently breaking things ethically. ⚡               │
 └─────────────────────────────────────────────────────────┘
-```
+</pre>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=EthRahul&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
 
