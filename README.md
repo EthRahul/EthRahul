@@ -1,12 +1,13 @@
 <div align="center">
-
+<pre>
 ```
 ╔═══════════════════════════════════════════════════════════╗
 ║          INITIALIZING OFFENSIVE SECURITY PROFILE          ║
 ║                   TARGET: RAHUL SUNOURI                   ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
-
+</pre>
+  
 # `whoami` — Rahul Sunouri
 
 ### Offensive Security | Bug Bounty Hunter | AI × Security
