@@ -1,12 +1,12 @@
 <div align="center">
-<pre>
 ```
+<pre>
 ╔═══════════════════════════════════════════════════════════╗
 ║          INITIALIZING OFFENSIVE SECURITY PROFILE          ║
 ║                   TARGET: RAHUL SUNOURI                   ║
 ╚═══════════════════════════════════════════════════════════╝
-```
 </pre>
+```
   
 # `whoami` — Rahul Sunouri
 
