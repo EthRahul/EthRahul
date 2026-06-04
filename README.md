@@ -14,6 +14,7 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Ethrahul-111927?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Ethrahul)
 [![GitHub](https://img.shields.io/badge/GitHub-EthRahul-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EthRahul)
 
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-FF6633?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/EthRahul/EthRahul/raw/main/Rahul-Sunouri-CV.pdf)
 </div>
 
 ---
