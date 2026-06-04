@@ -115,7 +115,7 @@ A structured, version-controlled knowledge base documenting 80+ TryHackMe rooms 
 | Vulnerability Capstone | Jr. Penetration Tester | Medium |
 | Linux PrivEsc Capstone | Jr. Penetration Tester | Medium |
 
-[![thm-journey stats](https://github-readme-stats.vercel.app/api/pin/?username=EthRahul&repo=thm-journey&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41)](https://github.com/EthRahul/thm-journey)
+[![thm-journey stats](https://gh-pin-cards.vercel.app/api/pin?username=EthRahul&repo=thm-journey&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41)](https://github.com/EthRahul/thm-journey)
 
 ---
 
@@ -168,10 +168,10 @@ A structured, version-controlled knowledge base documenting 80+ TryHackMe rooms 
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EthRahul&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF)](https://github.com/EthRahul)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EthRahul&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF)](https://github.com/EthRahul)
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EthRahul&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF)](https://github.com/EthRahul)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EthRahul&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF)](https://github.com/EthRahul)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EthRahul&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=FF6633&currStreakLabel=00FF41)](https://github.com/EthRahul)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EthRahul&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=FF6633&currStreakLabel=00FF41)](https://github.com/EthRahul)
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Ethrahul.png)](https://tryhackme.com/p/Ethrahul)
 
