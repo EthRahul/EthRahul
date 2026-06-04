@@ -115,7 +115,8 @@ A structured, version-controlled knowledge base documenting 80+ TryHackMe rooms 
 | Vulnerability Capstone | Jr. Penetration Tester | Medium |
 | Linux PrivEsc Capstone | Jr. Penetration Tester | Medium |
 
-[![thm-journey stats](https://github-readme-stats.vercel.app/api/pin/?username=EthRahul&repo=thm-journey&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41&cache_seconds=1800)](https://github.com/EthRahul/thm-journey)
+[![View thm-journey](https://img.shields.io/badge/📓_thm--journey-View_Repository-00FF41?style=for-the-badge&labelColor=0D1117&logo=github)](https://github.com/EthRahul/thm-journey)
+[![Commits](https://img.shields.io/github/commit-activity/t/EthRahul/thm-journey?label=Total%20Commits&style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github)](https://github.com/EthRahul/thm-journey)
 
 ---
 
@@ -168,12 +169,23 @@ A structured, version-controlled knowledge base documenting 80+ TryHackMe rooms 
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EthRahul&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&count_private=true&cache_seconds=1800)](https://github.com/EthRahul)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EthRahul&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&cache_seconds=1800)](https://github.com/EthRahul)
+[![GitHub followers](https://img.shields.io/github/followers/EthRahul?label=Followers&style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github)](https://github.com/EthRahul)
+[![GitHub stars](https://img.shields.io/github/stars/EthRahul?label=Total%20Stars&style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github)](https://github.com/EthRahul)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Ethrahul-red?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0D1117)](https://tryhackme.com/p/Ethrahul)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EthRahul&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=FF6633&currStreakLabel=00FF41&dates=FFFFFF&sideLabels=FFFFFF&sideNums=00FF41&currStreakNum=00FF41)](https://github.com/EthRahul)
+<br/>
 
-<a href="https://tryhackme.com/p/Ethrahul"><img src="https://tryhackme-badges.s3.amazonaws.com/Ethrahul.png" alt="TryHackMe Badge" /></a>
+| 📊 GitHub Activity | 🔥 Streak |
+|---|---|
+| ![](https://github-readme-activity-graph.vercel.app/graph?username=EthRahul&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FF6633) | [![GitHub Streak](https://streak-stats.demolab.com/?user=EthRahul&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=FF6633&currStreakLabel=00FF41&dates=FFFFFF&sideLabels=FFFFFF&sideNums=00FF41&currStreakNum=00FF41)](https://github.com/EthRahul) |
+
+<br/>
+
+**TryHackMe Profile**
+
+<a href="https://tryhackme.com/p/Ethrahul">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Ethrahul.png" alt="TryHackMe Badge" height="60"/>
+</a>
 
 </div>
 
