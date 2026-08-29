@@ -1,9 +1,14 @@
+<div align="center">
+
+# Rahul Sunouri
+
+### 🛡️ Blue Team Enthusiast · SOC Analyst (Aspiring) · Threat Detection & Response
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Blue+Team+%7C+SOC+Analyst+%7C+Threat+Detection;Network+Security+Monitoring+%7C+SIEM+%7C+Incident+Response;Offensive+Security+Fundamentals+%7C+Defensive+Mindset;Open+to+Entry-Level+Security+Analyst+Roles+2026)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul_Sunouri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-sunouri)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Ethrahul-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ethrahul)
-[![GitHub](https://img.shields.io/badge/GitHub-EthRahul-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EthRahul)
-[![Resume](https://img.shields.io/badge/Resume-Download_PDF-FF6633?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/EthRahul/EthRahul/raw/main/Rahul-Sunouri-CV.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul_Sunouri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-sunouri) [![TryHackMe](https://img.shields.io/badge/TryHackMe-Ethrahul-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ethrahul) [![GitHub](https://img.shields.io/badge/GitHub-EthRahul-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EthRahul) [![Resume](https://img.shields.io/badge/Resume-Download_PDF-FF6633?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/EthRahul/EthRahul/raw/main/Rahul-Sunouri-CV.pdf)
+
+</div>
 
 ---
 
@@ -27,30 +32,15 @@ My approach: **understand how attacks work, then build the detection and respons
 
 ### 🛡️ Defensive / SOC Tooling
 
-- ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-- ![Suricata](https://img.shields.io/badge/Suricata-E80020?style=for-the-badge&logoColor=white)
-- ![NetworkMiner](https://img.shields.io/badge/NetworkMiner-2C3E50?style=for-the-badge&logoColor=white)
-- ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-- ![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-- ![EveBox](https://img.shields.io/badge/EveBox-0D1117?style=for-the-badge&logoColor=white)
-- ![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-222222?style=for-the-badge&logoColor=white)
-- ![Bandit](https://img.shields.io/badge/Bandit_SAST-E34C26?style=for-the-badge&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Suricata](https://img.shields.io/badge/Suricata-E80020?style=for-the-badge&logoColor=white) ![NetworkMiner](https://img.shields.io/badge/NetworkMiner-2C3E50?style=for-the-badge&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) ![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white) ![EveBox](https://img.shields.io/badge/EveBox-0D1117?style=for-the-badge&logoColor=white) ![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-222222?style=for-the-badge&logoColor=white) ![Bandit](https://img.shields.io/badge/Bandit_SAST-E34C26?style=for-the-badge&logoColor=white)
 
 ### ⚔️ Offensive Security Fundamentals
 
-- ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
-- ![Metasploit](https://img.shields.io/badge/Metasploit-025590?style=for-the-badge&logoColor=white)
-- ![Nmap](https://img.shields.io/badge/Nmap-2B4A69?style=for-the-badge&logoColor=white)
-- ![SQLMap](https://img.shields.io/badge/SQLMap-E34C26?style=for-the-badge&logoColor=white)
-- ![Hydra](https://img.shields.io/badge/Hydra-00B4D8?style=for-the-badge&logoColor=white)
-- ![Gobuster](https://img.shields.io/badge/Gobuster-F2CA28?style=for-the-badge&logoColor=black)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-025590?style=for-the-badge&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-2B4A69?style=for-the-badge&logoColor=white) ![SQLMap](https://img.shields.io/badge/SQLMap-E34C26?style=for-the-badge&logoColor=white) ![Hydra](https://img.shields.io/badge/Hydra-00B4D8?style=for-the-badge&logoColor=white) ![Gobuster](https://img.shields.io/badge/Gobuster-F2CA28?style=for-the-badge&logoColor=black)
 
 ### 🖥️ Languages & Platforms
 
-- ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-- ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ---
 
@@ -118,11 +108,17 @@ A version-controlled knowledge base covering 80+ TryHackMe rooms across offensiv
 
 ## 〔 07 〕 STATS
 
+<div align="center">
+
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Ethrahul-red?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0D1117)](https://tryhackme.com/p/Ethrahul)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EthRahul&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FF6633)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EthRahul&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=FF6633&text_color=c9d1d9&hide_border=true)
+
+</div>
 
 ---
+
+<div align="center">
 
     I document everything I learn - because a security professional
     who can't explain their thinking is just guessing.
@@ -130,3 +126,5 @@ A version-controlled knowledge base covering 80+ TryHackMe rooms across offensiv
     Open to entry-level Security Analyst / SOC Internship 2026.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=EthRahul&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
