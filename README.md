@@ -72,10 +72,10 @@ A version-controlled knowledge base covering 80+ TryHackMe rooms across offensiv
 
 | Domain | Skills |
 |---|---|
-| 📊 SOC & Monitoring | SIEM log analysis (Splunk/Elastic), Suricata NIDS, EDR concepts, SOAR workflows, MITRE ATT&CK & Kill Chain |
+| 📊 SOC & Monitoring | SIEM log analysis, Suricata NIDS, EDR concepts, SOAR workflows, MITRE ATT&CK & Kill Chain |
 | 🔍 Threat Detection | Network discovery detection, brute-force/exfiltration indicators, IOC identification |
-| 🛡️ Network Forensics | pcap analysis (Wireshark/NetworkMiner), MITM/ARP detection, DNS & ICMP tunneling detection |
-| 🔐 Secure Code Review | SAST (Bandit), OWASP Top 10 (2025) / CWE mapping, manual vulnerability analysis, remediation |
+| 🛡️ Network Forensics | pcap analysis, MITM/ARP detection, DNS & ICMP tunneling detection |
+| 🔐 Secure Code Review | SAST, OWASP Top 10 (2025) / CWE mapping, manual vulnerability analysis, remediation |
 | 🌐 Web App Security | SQLi, XSS, SSRF, Auth bypass, session forgery, upload vulns |
 | 🔑 Auth Attacks | Brute force (Hydra), session hijacking, MFA bypass, credential stuffing detection |
 
