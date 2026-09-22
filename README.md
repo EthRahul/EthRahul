@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Blue+Team+%7C+SOC+Analyst+%7C+Threat+Detection;Network+Security+Monitoring+%7C+SIEM+%7C+Incident+Response;Offensive+Security+Fundamentals+%7C+Defensive+Mindset;Open+to+Entry-Level+Security+Analyst+Roles+2026)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul_Sunouri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-sunouri) [![TryHackMe](https://img.shields.io/badge/TryHackMe-Ethrahul-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ethrahul) [![GitHub](https://img.shields.io/badge/GitHub-EthRahul-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EthRahul) [![Resume](https://img.shields.io/badge/Resume-Download_PDF-FF6633?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/EthRahul/EthRahul/raw/main/Rahul-Sunouri-CV.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul_Sunouri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-sunouri) [![TryHackMe](https://img.shields.io/badge/TryHackMe-Ethrahul-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ethrahul) [![GitHub](https://img.shields.io/badge/GitHub-EthRahul-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EthRahul) [![Resume](https://img.shields.io/badge/Resume-Download_PDF-FF6633?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/EthRahul/EthRahul/raw/main/Rahul-Sunouri-CV.pdf) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulsunouri@gmail.com)
 
 </div>
 
@@ -83,8 +83,6 @@ A version-controlled knowledge base covering 80+ TryHackMe rooms across offensiv
 
 ## 〔 05 〕 LEARNING PATH
 
-    [DONE]  Cyber Security 101                              March 2026
-    [DONE]  Jr. Penetration Tester Path                     April 2026
     [DONE]  Web App Pentesting - Authentication Module      May 2026
     [DONE]  AI Security - AI/ML Threats & Model Security    May 2026
     [DONE]  Networking (NetworkChuck)                       May 2026
@@ -111,8 +109,6 @@ A version-controlled knowledge base covering 80+ TryHackMe rooms across offensiv
 <div align="center">
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Ethrahul-red?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0D1117)](https://tryhackme.com/p/Ethrahul)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EthRahul&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=FF6633&text_color=c9d1d9&hide_border=true)
 
 </div>
 
